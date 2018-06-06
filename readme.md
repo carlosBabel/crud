@@ -1,4 +1,4 @@
-<p align="center"><img src=public/images/1528286526los-gremlins.jpg"></p>
+<p align="center"><img src="http://es.web.img3.acsta.net/newsv7/16/12/05/12/07/584176.jpg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
